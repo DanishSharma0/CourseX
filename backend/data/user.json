@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "firstName": "Sachin",
+    "lastName": "Tendulkar",
+    "email": "sachin@gmail.com",
+    "password": "$2b$10$T.TNdZIhuD63IWpTFOlI1.FKQwtnzYi5p5a46ZyrNcabrWaFngwnS",
+    "role": "student"
+    
+  },
+  {
+    "id": 2,
+    "firstName": "Virat",
+    "lastName": "Kohli",
+    "email": "virat@gmail.com",
+    "password": "$2b$10$pFZCgw6vgIJhVVUkkVJMPedgwij8VtcwYiZ1TnW51RfhpMD7PIS2m",
+    "role": "student"
+  },
+  {
+    "id": 3,
+    "firstName": "Danish",
+    "lastName": "Sharma",
+    "email": "provider@demo.com",
+    "password": "$2b$10$d7V82UOnsr5Xy2t4bFtgauxymM/Xl/Fh66lLuo0TsFSFssXyyZ/16",
+    "role": "student"
+  },
+  {
+    "id": 4,
+    "firstName": "Aryan",
+    "lastName": " Sharma",
+    "email": "ds7501243@gmail.com",
+    "password": "$2b$10$xVTYvjqU8A7cTbuhDR3bEe6JodSgKQBPq4wBGpcMOZ1vPX0VMM7jG",
+    "role": "student"
+  }
+]
