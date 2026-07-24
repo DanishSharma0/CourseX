@@ -1,16 +1,16 @@
 # ⚡ CourseX — Modern Full-Stack E-Learning Platform
 
-[![Live Demo]](https://course-x-sigma.vercel.app)
+
 [![Tech Stack](https://img.shields.io/badge/MERN-MongoDB%20%7C%20Express%20%7C%20React%20%7C%20Node-black?style=for-the-badge&logo=react)](https://course-x-sigma.vercel.app)
-<img width="1857" height="820" alt="Screenshot 2026-07-24 112556" src="https://github.com/user-attachments/assets/da0b63a3-ef47-42ea-9257-e27b6e768970" />
 
 **CourseX** is a modern, high-performance full-stack MERN (MongoDB, Express.js, React 19, Node.js) web application designed for interactive online learning. It features clean architectural page separation, JWT authentication, instant level-filtering, single course curriculum pages, and a personalized student dashboard.
 
 ---
 
 ## 🎨 UI Design Preview
+<img width="1857" height="820" alt="Screenshot 2026-07-24 112556" src="https://github.com/user-attachments/assets/da0b63a3-ef47-42ea-9257-e27b6e768970" />
 
-![CourseX UI Design](frontend/src/assets/hero.png)
+
 
 > **Live Deployment Link**: 🚀 [https://course-x-sigma.vercel.app](https://course-x-sigma.vercel.app)
 
